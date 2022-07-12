@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccdb9b74-4d5f-4cdc-94ef-3db54c6bde72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Temperature-Converter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Terminal.java" afterDir="false" />
+    <list default="true" id="ccdb9b74-4d5f-4cdc-94ef-3db54c6bde72" name="Changes" comment="Add methods sayHello and printAnswer in class Terminal">
+      <change afterPath="$PROJECT_DIR$/src/Temperature.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +46,21 @@
       <option name="presentableId" value="Default" />
       <updated>1657633846087</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create project">
+      <created>1657634445184</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657634445184</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add methods sayHello and printAnswer in class Terminal">
+      <created>1657634526370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657634526370</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +73,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create project" />
+    <MESSAGE value="Add methods sayHello and printAnswer in class Terminal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add methods sayHello and printAnswer in class Terminal" />
   </component>
 </project>
